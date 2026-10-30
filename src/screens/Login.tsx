@@ -252,7 +252,7 @@ function SignUpForm({ onBack }: { onBack(): void }) {
             autoComplete="username"
             required
             maxLength={30}
-            placeholder="curious.seeker"
+            placeholder="Choose a username"
             value={username}
             onChange={(e) => setUsername(e.target.value)}
             autoFocus
