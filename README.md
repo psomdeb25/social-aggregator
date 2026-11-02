@@ -1,14 +1,14 @@
-# Hub: social aggregator (v1)
+# Hub: a social aggregator
 
-A responsive, installable PWA that launches the social sites you use every day
-(Instagram, LinkedIn, Reddit, WhatsApp and YouTube) from one obsidian-black
-home screen of squircle icons, behind its own email and password login.
+A responsive PWA that organizes all your social media sites, which you use every day
+(Instagram, LinkedIn, Reddit, WhatsApp and YouTube) on an obsidian-black
+home screen.
 
 | Login | Home | In-app view |
 | --- | --- | --- |
 | ![Login](docs/screenshots/phone-3-login.png) | ![Home](docs/screenshots/laptop-4-home.png) | ![In-app](docs/screenshots/laptop-6-in-app-view.png) |
 
-## Run it
+## Installation
 
 ```bash
 npm install
